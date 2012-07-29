@@ -1,0 +1,13 @@
+.*.swp
+.DS_Store
+*~
+/libs/armeabi*
+/gen
+/bin
+/obj
+local.properties
+.classpath
+.settings/
+.project
+.cproject
+.metadata
